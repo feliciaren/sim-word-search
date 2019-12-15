@@ -1,0 +1,4 @@
+ccks2019_el/kb_data filter=lfs diff=lfs merge=lfs -text
+ccks2019_el/develop.json filter=lfs diff=lfs merge=lfs -text
+ccks2019_el/train.json filter=lfs diff=lfs merge=lfs -text
+data/all_data.json filter=lfs diff=lfs merge=lfs -text
